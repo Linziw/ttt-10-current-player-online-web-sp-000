@@ -17,3 +17,4 @@ def turn_count(board)
 #end
 
 #refactored to try ternary operator.
+
