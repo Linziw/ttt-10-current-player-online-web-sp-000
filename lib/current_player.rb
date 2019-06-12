@@ -13,5 +13,7 @@ def turn_count(board)
 #    return "X"
 #  else
 #    "O"
-end
-end
+#end
+#end
+
+#refactored to try ternary operator.
